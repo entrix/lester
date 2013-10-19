@@ -1,0 +1,2 @@
+INFO    2013-10-19 15:28:32,361 [main] com.volkoval.lucene.fuzziness.Indexer  - start indexing
+INFO    2013-10-19 15:28:34,902 [main] com.volkoval.lucene.fuzziness.Indexer  - indexing completed successfully
